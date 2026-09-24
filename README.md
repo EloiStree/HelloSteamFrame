@@ -1,6 +1,7 @@
 Steam Frame Reddit: https://www.reddit.com/r/SteamFrame/   
 Steam Frame Reddit -> Discord: https://discord.com/invite/steamframe    
 
+[Does it run on steam frame ->](https://github.com/EloiStree/HelloDoesItRunOnSteamFrame/issues)
 
 # HelloSteamFrame
 
