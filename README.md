@@ -1,7 +1,14 @@
+
+
 Steam Frame Reddit: https://www.reddit.com/r/SteamFrame/   
 Steam Frame Reddit -> Discord: https://discord.com/invite/steamframe    
 
 [Does it run on steam frame ->](https://github.com/EloiStree/HelloDoesItRunOnSteamFrame/issues)
+
+**Install and setup your Steam Frame:**
+- Steam OS to Godot XR for Frame https://github.com/EloiStree/HelloSteamFrame/issues/44
+- Window to Godot XR for Fame https://github.com/EloiStree/HelloSteamFrame/issues/45
+- Godot XR with in the Frame https://github.com/EloiStree/HelloSteamFrame/issues/46
 
 # HelloSteamFrame
 
