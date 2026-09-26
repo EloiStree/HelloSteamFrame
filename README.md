@@ -15,3 +15,6 @@ Learn how to use the Steam Frame for coding with Godot.
 
 [<img width="1030" height="585" alt="image" src="https://github.com/user-attachments/assets/7287a660-8ffe-4357-a8fe-5e00ad660c22" />](https://youtu.be/vHtnf9LBl9Q?t=163)
 https://youtu.be/vHtnf9LBl9Q?t=163
+
+<img width="1944" height="991" alt="image" src="https://github.com/user-attachments/as sets/fd4b0ef0-f471-4921-8135-f7b545288fa7" />       
+from iFixit video     
