@@ -3,6 +3,8 @@
 Steam Frame Reddit: https://www.reddit.com/r/SteamFrame/   
 Steam Frame Reddit -> Discord: https://discord.com/invite/steamframe    
 
+Post on Steam: https://steamcommunity.com/app/4165890/discussions/
+
 [Does it run on steam frame ->](https://github.com/EloiStree/HelloDoesItRunOnSteamFrame/issues)
 
 **Install and setup your Steam Frame:**
