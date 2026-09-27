@@ -1,5 +1,5 @@
 Want to help me ☺️?  
-https://github.com/EloiStree/r/help_me    
+https://eloistree.github.io/r/help_me
 (I would love your help)   
 
 
