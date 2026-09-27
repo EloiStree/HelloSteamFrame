@@ -1,4 +1,6 @@
-
+Want to help me ☺️?
+Look for the [help tag](https://github.com/EloiStree/HelloSteamFrame/issues?q=label%3A%22help+wanted%22) in issue:    
+https://github.com/EloiStree/HelloSteamFrame/issues?q=label%3A%22help+wanted%22   
 
 Steam Frame Reddit: https://www.reddit.com/r/SteamFrame/   
 Steam Frame Reddit -> Discord: https://discord.com/invite/steamframe    
