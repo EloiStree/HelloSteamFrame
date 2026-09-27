@@ -1,3 +1,6 @@
+Find information around Steam Frame in the issues:   
+https://github.com/EloiStree/HelloSteamFrame/issues  
+
 Want to help me ☺️?  
 https://eloistree.github.io/r/help_me   
 _(I would love your help)_   
