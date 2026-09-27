@@ -1,3 +1,6 @@
+Play to game from your steam frame with Godot: [here](https://github.com/EloiStree/PlayGameFromSteamFrame)
+
+
 Find information around Steam Frame in the issues:   
 https://github.com/EloiStree/HelloSteamFrame/issues  
 
