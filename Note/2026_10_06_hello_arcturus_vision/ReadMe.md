@@ -25,3 +25,24 @@ Marques del Riscal 11 5* planta 28010 Madrid, Spain
 
 
 Bar code: `0 726872 149745`
+
+
+Video of the how to setup
+https://cdn.arcturus.vision/videos/InstructionVideo-720p.mp4
+<img width="739" height="270" alt="image" src="https://github.com/user-attachments/assets/bdc88c77-e738-4280-84ea-af79ab24c95b" />
+
+
+Question: Can I plug and unplug while the headset has power on without burning the camera or device ?
+
+Note: It does not touch my big nose 😀
+
+Note: Nothing to setup to when you open the Steam Frame
+First impression:
+- Did not realise the camera was on when I looked for activate it it;)
+- A bit blurry when you move the head (very light)
+- No direct deformation of the view.
+
+
+
+
+
