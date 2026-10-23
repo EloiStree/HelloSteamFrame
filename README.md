@@ -1,5 +1,5 @@
-Play to game from your steam frame with Godot: [here](https://github.com/EloiStree/PlayGameFromSteamFrame)
-Arcturus doc: https://github.com/EloiStree/HelloArcturusVision 
+Play to game from your steam frame with Godot: [here](https://github.com/EloiStree/PlayGameFromSteamFrame)    
+Arcturus doc: https://github.com/EloiStree/HelloArcturusVision      
 
 Find information around Steam Frame in the issues:   
 https://github.com/EloiStree/HelloSteamFrame/issues  
